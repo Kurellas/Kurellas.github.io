@@ -1,0 +1,72 @@
+SREE CHANDANA KURELLA
+443-529-4174 | sreechandanakurella@gmail.com | Charlotte, NC | www.linkedin.com/in/sreechandanakurella
+APPIAN CERTIFIED SENIOR DEVELOPER
+
+SUMMARY:
+Senior Appian Developer with 7+ years of experience developing and optimizing enterprise applications. Skilled in business process automation, workflow optimization, system integrations, and delivering scalable solutions across banking, higher education, and commercial domains.
+
+EDUCATION:
+Montclair State University (MSU), Montclair, NJ
+Master of Science in Computer Science, May 2024
+GPA: 3.7/4.0
+Relevant Coursework: Web Security, Artificial Intelligence, Machine Learning, Computer Algorithms, Human Computer Interaction, Software Engineering, and Computer Architecture.
+
+TECHNICAL PROFICIENCIES:
+- Languages: Java, SQL, Python, PHP, JavaScript, HTML, CSS
+- Frameworks: JavaScript, Angular, Spring Boot, Bootstrap
+- Tools: Appian, TOAD, JIRA, Bitbucket, ServiceNow, MariaDB
+- Applications: Advanced Excel, PowerPoint, MySQL, Git, Jenkins
+
+WORK EXPERIENCE:
+Bank of America, Charlotte, NC
+Software Engineer - II | October 2025 - Present
+• Developed and enhanced enterprise-scale Appian applications to streamline business processes and improve operational efficiency.
+• Optimized process models, user interfaces, workflows, and application queries to improve performance, scalability, and user experience.
+• Designed and implemented new features and enhancements based on business requirements and stakeholder feedback.
+• Executed deployment and release management activities across development, testing, and production environments.
+• Led repository migration initiatives and supported modernization efforts to improve code maintainability and development efficiency.
+• Troubleshot production issues, conducted root cause analysis, and implemented solutions to improve application stability and reliability.
+• Collaborated with business stakeholders, QA teams, and cross-functional teams to deliver scalable and high-quality Appian solutions.
+
+Montclair State University, Montclair, NJ
+Technology Specialist - Appian | Jul 2024 – September 2025
+• Developed, enhanced, and maintained modules using Appian to support graduate assistantship management, enrollment tracking, and other academic workflows.
+• Created and maintained technical documentation to ensure clarity for development, testing, and deployment phases.
+• Built and maintained system integrations with Banner, Slate, and databases to enable seamless data exchange.
+• Developed Appian record dashboards and reports to track students’ matriculation timelines, enabling academic advisors to track progress and provide targeted resources.
+• Monitored and optimized system performance, resolved technical issues, and implemented user-requested enhancements to improve usability.
+• Proposed and implemented process improvements that enhanced operational efficiency and reduced manual work for academic staff.
+
+Montclair State University, Montclair, NJ
+Graduate Assistant, The Graduate School | Feb 2023 - May 2024
+• Maintained and enhanced web-based platforms, updating content, integrating forms, and implementing workflows to streamline administrative processes.
+• Developed and optimized applications using PHP, AJAX, HTML, CSS, SQL, JavaScript, WordPress, and Appian low-code components to improve functionality and user experience.
+• Conducted security analysis and implemented process improvements to ensure system integrity and compliance.
+• Consolidated multiple data sources to create Appian reports and dashboards, providing actionable insights for administrators and academic advisors.
+• Audited user permissions and documented security and workflow processes to maintain compliance and support governance standards.
+
+Wipro, Bangalore, India
+Senior Appian Developer - Subject Matter Expert | Jun 2019 - Jul 2022
+• Designed, developed, and implemented BPM applications using the Appian platform to optimize business processes and improve efficiency.
+• Collaborated with business analysts and stakeholders to gather requirements and translate them into effective technical solutions.
+• Customized Appian components, including process models, records, interfaces, rules, and reports, to meet business needs.
+• Conducted thorough testing, debugging, and supported critical production deployments and application support to maintain reliability.
+• Developed and maintained technical documentation for architecture, processes, and Appian applications to support knowledge sharing and governance.
+• Helped set up project architecture and managed development environments for smooth execution from development to deployment.
+• Utilized RPA to automate repetitive tasks, enhancing process efficiency and reducing manual workload.
+• Integrated Appian applications with Java and Oracle databases to ensure seamless data exchange and interoperability.
+• Led knowledge-sharing sessions and provided technical guidance to team members, fostering continuous learning and improvement.
+
+Visibility Blaster, Hyderabad, India
+Web Development Intern - Appian | Aug 2018 - May 2019
+• Performed CRUD operations and maintained product catalogs for sanitary fittings and hardware websites, ensuring accurate and up-to-date listings.
+• Developed and enhanced Appian workflows to manage inventory, track orders, and streamline administrative processes for the websites.
+• Assisted in troubleshooting website and Appian application issues, ensuring smooth functionality for clients and users.
+• Collaborated with clients to gather requirements for product features, forms, and checkout processes, translating them into functional and user-friendly solutions.
+• Conducted testing and validation of product management forms, pricing rules, and website interfaces to ensure accuracy and usability.
+• Created and maintained technical documentation for website workflows, product databases, and Appian application features.
+
+CERTIFICATIONS:
+• Appian Certified Senior Developer
+• Appian Certified Associate Developer
+• Appian Sales Accreditation
